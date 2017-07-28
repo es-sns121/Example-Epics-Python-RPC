@@ -8,8 +8,8 @@ and Python version 2 (2.6.6 was used).
 ## Remote Procedure Call (RPC)
 
 RPC is a protocol that one program can use to request a service
-froma program located in another computer on a network without
-having to unserstand the network's details.
+from a program located in another computer on a network without
+having to understand the network's details.
 
 ## rpcServer.py
 
