@@ -1,5 +1,10 @@
 # Python RpcServer and RpcClient Example
 
+## Prequisites
+
+These applications require a working build of EPICS version 4 (4.6.0 as of 28/7/2017)
+and Python version 2 (2.6.6 was used).
+
 ## Remote Procedure Call (RPC)
 
 RPC is a protocol that one program can use to request a service
